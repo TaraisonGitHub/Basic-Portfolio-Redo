@@ -1,0 +1,104 @@
+body {
+	margin: auto;
+	width: 960px;
+	background-color: #efefef;
+	text-align: center;
+	background-image: "C:\Users\Tara\Desktop\UCF-Bootcamp\Basic-Portfolio\assets\images\wov.png"
+}
+
+header {
+	width: 960px;
+	background-color: #fff;
+	height: 120px;
+}
+
+h1 {
+	float: left;
+	position: relative;
+	left: 100px;
+	top: 21px;
+	padding: 20px 30px 20px 30px;
+	background-color: #4aaaa5;
+	color: #efefef;
+}
+
+h2 {
+	padding: 30px 0px 0px 30px;
+}
+
+h1 h2 h3 h4 h5 h6 {
+	font-family: Georgia, Times, "Times New Roman", serif;
+}
+
+li {
+	float: left;
+	margin: 0;
+	padding: 0;
+}
+
+ul {
+	list-style-type: none;
+	position: relative;
+	left: 460px;
+	padding-top: 45px;
+}
+
+a {
+	text-decoration: none;
+	display: block;
+	padding: 10px;
+	background-color: #fff;;
+}
+
+section {
+	width: 650px;
+	background-color: #fff;
+	top: 150px;
+	margin-bottom: 250px;
+	text-align: left;
+}
+
+article {
+	width: 650px;
+	height: 475px;
+}
+
+aside {
+	width: 270px;
+	height: 200px;
+	position: absolute;
+	right: 400px;
+	top: 170px;
+	background-color: #fff;
+	
+}
+
+img {
+	border: 25px solid #fff;
+	float: left;
+	width: 200px;
+	height: 200px;
+}
+
+footer {
+	position: fixed;
+	width: 960px;
+	height: 100px;
+	background-color: #666666;
+	border-top: 5px solid #4aaaa5;
+	padding: 20px;
+	color: #ebebeb;
+}
+
+p {
+	padding: 20px 40px 10px 30px;
+	line-height: 24px;
+}
+
+.soc{
+	width: 50px;
+	margin: auto;
+	height: 50px;
+	padding: 5px;
+	border: 0px;
+}
